@@ -1,0 +1,10 @@
+*******
+How To Use Custom Themes For Vega X:
+
+1. Put Your Theme Image/GIF Onto Your Desktop (.GIF, .JPEG, .PNG, .JPG etc.)
+2. Open Vega X
+3. Drag + Drop Your Image Into The Blank Space In-Between any 2 buttons.
+
+~ 1_F0
+
+*******
